@@ -1,0 +1,12 @@
+im_rd=cv2.resize(im_rd ,None,fx=3,fy=3,interpolation=cv2.INTER_CUBIC)
+
+self.face_width = d.right() - d.left()
+self.face_hight = self.face_width
+
+第一列.mouth_width
+第二列.mouth_higth
+第三列.brow_hight
+第四列.brow_width
+第五列.eye_hight
+第六列.brow_k
+第七列.标签（1.愤怒 2.蔑视 3.恶心 4.害怕 5.开心 6. 悲伤 7.惊喜）
